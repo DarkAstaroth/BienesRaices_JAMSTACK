@@ -48,6 +48,9 @@
     },
     "categoria": {
       "model": "categorias"
+    },
+    "agentes": {
+      "model": "agentes"
     }
   }
 }
